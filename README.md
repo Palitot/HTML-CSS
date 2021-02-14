@@ -1,2 +1,2 @@
 # HTML-CSS
-##Repositório para atividades de desenvolvimento web
+Repositório para atividades de desenvolvimento web
