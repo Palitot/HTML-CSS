@@ -1,0 +1,56 @@
+h1 {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    color: darkblue;
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    background-color: lightskyblue;
+    color: darkblue;
+}
+
+h3 {
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    color: darkslategray;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    color: darkslategray;
+}
+
+a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: darkblue;  
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+li {
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    color: darkslategray;
+}
+
+ul {
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    color: darkslategray;
+}
+
+dl {
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    color: darkslategray;
+}
